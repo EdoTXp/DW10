@@ -20,7 +20,9 @@
     { "id": 2, "name": "Cartão de débito", "acronym": "CD", "enabled": true },
     { "id": 3, "name": "Vale Refeição", "acronym": "VR", "enabled": true },
     { "id": 4, "name": "Vale Alimentação", "acronym": "VA", "enabled": true },
-    { "id": 5, "name": "teste", "acronym": "teste", "enabled": false }
+    { "id": 5, "name": "teste", "acronym": "teste", "enabled": false },
+    { "id": 6, "name": "teste DW", "acronym": "dw", "enabled": true },
+    { "id": 7, "name": "teste 2 DW", "acronym": "D2W", "enabled": true }
   ],
   "products": [
     {
